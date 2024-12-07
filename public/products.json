@@ -1,0 +1,223 @@
+[
+  {
+    "product_id": "1",
+    "product_title": "Dell XPS 15 Laptop",
+    "product_image": "https://i.ibb.co.com/dc0Tzyg/Dell-XPS-15-Laptop.jpg",
+    "category": "Computers",
+    "price": 1599.99,
+    "description": "A high-performance laptop with a 15-inch display, Intel i7 processor, and 16GB RAM.",
+    "Specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD",
+      "15.6-inch FHD Display",
+      "NVIDIA GTX 1650"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "2",
+    "product_title": "MacBook Pro 16-inch",
+    "product_image": "https://i.ibb.co.com/61JPpTq/Mac-Book-Pro-16-inch.jpg",
+    "category": "Computers",
+    "price": 2399.99,
+    "description": "Powerful MacBook with 16-inch Retina display, Apple M1 Pro chip, and 32GB RAM.",
+    "Specification": [
+      "Apple M1 Pro",
+      "32GB RAM",
+      "1TB SSD",
+      "16-inch Retina Display",
+      "AMD Radeon Pro 5500M"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "3",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/BPYQpFY/HP-Spectre-x360.jpg",
+    "category": "Computers",
+    "price": 1799.99,
+    "description": "A versatile 2-in-1 laptop with Intel i7 processor, 16GB RAM, and 512GB SSD.",
+    "Specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD",
+      "13.3-inch 4K Display",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "4",
+    "product_title": "Microsoft Surface Laptop 4",
+    "product_image": "https://i.ibb.co.com/QDHTYm1/Microsoft-Surface-Laptop-4.jpg",
+    "category": "Computers",
+    "price": 1499.99,
+    "description": "Sleek and powerful, with a 13.5-inch PixelSense display and Intel i7 processor.",
+    "Specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD",
+      "13.5-inch PixelSense Display",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "5",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co.com/tKFSKN3/Lenovo-Think-Pad-X1-Carbon.jpg",
+    "category": "Computers",
+    "price": 1899.99,
+    "description": "Ultra-light and durable laptop with Intel i7, 16GB RAM, and 512GB SSD.",
+    "Specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD",
+      "14-inch Full HD Display",
+      "Intel UHD Graphics"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "6",
+    "product_title": "Asus ROG Strix G15",
+    "product_image": "https://i.ibb.co.com/BBSspCN/Asus-ROG-Strix-G15.jpg",
+    "category": "Computers",
+    "price": 1599.99,
+    "description": "Gaming laptop with Ryzen 7, 16GB RAM, and 1TB SSD, designed for performance.",
+    "Specification": [
+      "AMD Ryzen 7 5800H",
+      "16GB RAM",
+      "1TB SSD",
+      "15.6-inch FHD Display",
+      "NVIDIA GeForce RTX 3060"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "7",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.ibb.co.com/9HZdKVs/Samsung-Galaxy-S23-Ultra.jpg",
+    "category": "Phones",
+    "price": 1099.99,
+    "description": "Flagship phone with Snapdragon 8 Gen 2, 12GB RAM, and 5000mAh battery.",
+    "Specification": [
+      "Snapdragon 8 Gen 2",
+      "12GB RAM",
+      "256GB Storage",
+      "6.8-inch Dynamic AMOLED Display",
+      "200MP Camera"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "8",
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://i.ibb.co.com/1QSwpPp/Apple-i-Phone-15-Pro-Max.jpg",
+    "category": "Phones",
+    "price": 1399.99,
+    "description": "Latest iPhone with A17 chip, 6.7-inch Super Retina XDR display, and 5G.",
+    "Specification": [
+      "Apple A17 Chip",
+      "6GB RAM",
+      "256GB Storage",
+      "6.7-inch Super Retina XDR Display",
+      "48MP Main Camera"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "9",
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://i.ibb.co.com/hHqtBtM/Samsung-Galaxy-Watch-6.jpg",
+    "category": "Smart Watches",
+    "price": 379.99,
+    "description": "Advanced smartwatch with 2-day battery life, fitness tracking, and health monitoring.",
+    "Specification": [
+      "1.4-inch AMOLED Display",
+      "GPS Tracking",
+      "Heart Rate Monitoring",
+      "Sleep Tracking",
+      "IP68 Water Resistance"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "10",
+    "product_title": "Apple Watch Ultra",
+    "product_image": "https://i.ibb.co.com/ZBdrD3L/Apple-Watch-Ultra.jpg",
+    "category": "Smart Watches",
+    "price": 799.99,
+    "description": "Rugged smartwatch with titanium case, GPS, and 36-hour battery life.",
+    "Specification": [
+      "Titanium Case",
+      "2-inch OLED Display",
+      "GPS + GLONASS",
+      "Heart Rate Monitoring",
+      "36-hour Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "11",
+    "product_title": "Anker 30W USB-C Charger",
+    "product_image": "https://i.ibb.co.com/tDZyKts/Anker-30-W-USB-C-Charger.jpg",
+    "category": "Chargers",
+    "price": 59.99,
+    "description": "Fast USB-C charger for phones and laptops, with Power Delivery 3.0.",
+    "Specification": [
+      "30W Output",
+      "USB-C Port",
+      "Power Delivery 3.0",
+      "Compact Design",
+      "Overcurrent Protection"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "12",
+    "product_title": "RAVPower 65W GaN Charger",
+    "product_image": "https://i.ibb.co.com/jyZRfkp/RAVPower-65-W-Ga-N-Charger.jpg",
+    "category": "Chargers",
+    "price": 69.99,
+    "description": "Compact 65W USB-C charger with GaN technology, perfect for laptops and phones.",
+    "Specification": [
+      "65W Output",
+      "USB-C Port",
+      "GaN Technology",
+      "Smart Charging",
+      "Compact Size"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "13",
+    "product_title": "Anker PowerCore 26800 Power Bank",
+    "product_image": "https://i.ibb.co.com/v4ZfFxV/Anker-Power-Core-26800-Power-Bank.jpg",
+    "category": "Power Banks",
+    "price": 89.99,
+    "description": "High-capacity power bank with 26800mAh, multiple USB ports, and fast charging.",
+    "Specification": [
+      "26800mAh Capacity",
+      "3 USB Ports",
+      "PowerIQ Technology",
+      "Fast Charging",
+      "LED Indicators"
+    ],
+    "availability": true,
+    "rating": 4.7
+  }
+]
